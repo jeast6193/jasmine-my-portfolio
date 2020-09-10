@@ -1,0 +1,24 @@
+.bg-light {
+    background-color: #f8fafb!important;
+}
+.section-img {
+    background-image: url(../img/ignasi_pattern_s.png);
+   height: 100vh;
+   
+}
+
+.section-middle {
+    width: 100% ;
+    height: 50vh;
+
+   position: relative;
+   top: 10%;
+}
+.heading {
+    background-color: #4AAAA4;
+    height: 15vh;
+}
+.title {
+    color: #4AAAA4
+
+}
