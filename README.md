@@ -1,4 +1,4 @@
-# Portfolio Assignmednt
+# Portfolio Assignment
 My portfolio assignment incldues an about me section to give users some insight into who I am, a protfolio page showcasing different projects that I have worked on, and  a contact page for users to get in touch with me.
 
 # Installation
